@@ -30,8 +30,8 @@ const Index = () => {
           isVisible ? 'scale-100 opacity-100' : 'scale-95 opacity-0'
         }`}>
           <img 
-            src="/lovable-uploads/2e99fda2-efa6-4715-8117-5425103c90ed.png" 
-            alt="Gtpn Logo" 
+            src="/lovable-uploads/56854aa7-e455-45b2-943d-286e1ad8d249.png" 
+            alt="Logo" 
             className="mx-auto w-64 h-64 object-contain drop-shadow-2xl hover:scale-105 transition-transform duration-300"
           />
         </div>
